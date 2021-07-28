@@ -1,0 +1,77 @@
+body{
+    background-image:url("https://cdn.pixabay.com/photo/2012/04/05/01/40/balloons-25737_960_720.png");
+     background-position: center;
+    background-repeat: no-repeat;
+  }
+  .intro{
+    text-align:center;
+    width:100%;
+    max-width:600px;
+    margin:auto;
+    margin-top:2rem;
+    padding:1.8rem 1rem;
+    min-height:150px;
+    background-color:khaki;
+  }
+  #res{
+    display:none;
+  }
+  
+  .main_part{
+    text-align:center;
+    width:100%;
+    max-width:500px;
+    margin:auto;
+    margin-top:30rem;
+    padding:1.8rem 1rem;
+    min-height:130px;
+    background-color:yellow;
+  }
+  input{
+    display:block;
+    margin:auto;
+    margin-top:1rem;
+    margin-bottom:0.5rem;
+    height:50px;
+    padding:0.5rem 2rem;
+    width:200px;
+    font-size:1rem;
+    text-align:center;
+  }
+  button{
+    font-size:1rem;
+    cursor:pointer;
+    margin:1rem;
+    font-weight:bold;
+  }
+  label{
+    font-size:1.5rem;
+    font-weight:bold;
+    margin:2rem;
+  }
+  li{
+    list-style:none;
+    display:inline-block;
+    padding:0.5rem; 
+  }
+  footer{
+    max-width:500px;
+    max-height:95px;
+    margin:auto;
+    margin-left:37%;
+  }
+  #lucky1,#unlucky{
+    display:none;
+  }
+  #pri{
+    color:red;
+  }
+  #intro1{
+    font-weight:bold;
+  }
+   a:visited{
+    color:black;
+  }
+  #scrol{
+    font-size:20px;
+  }
